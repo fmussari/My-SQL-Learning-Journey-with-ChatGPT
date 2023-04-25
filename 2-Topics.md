@@ -56,6 +56,7 @@ Expert:
 I hope this list helps you improve your SQL skills! Good luck with your studies!
 ___
 <br>
+
 ### Another Prompt
 I started a new conversation and used a simpler prompt. For readability I added `<br> -` at the begining of each topic inside the table.
 
@@ -64,8 +65,10 @@ ___
 Can you help me improve my sql skills, can you list me the subject from beginner to expert in a table?
 ___
 <br>
+
 **ChatGPT:**  
-___
+____
+
 Certainly! Here's a table outlining different topics related to SQL, arranged in order from beginner to expert level:
 
 | Skill Level | SQL Topics |

@@ -5,9 +5,13 @@
 The first step was to tell ChatGPT my intentions. I used the following promt:
 
 **Me:**  
+___
 I want to learn SQL, so I'm going to ask you for help, but I want to document the whole process in a github repository so I want to start by creating the repository, would you help me?
+___
+<br>
 
 **ChatGPT:**  
+___
 Sure, I can help you create a GitHub repository to document your SQL learning journey. Here are the steps you can follow:
 
 1. First, sign in to your GitHub account or create a new account if you don't have one already.
@@ -43,6 +47,6 @@ git push
 Replace "Commit message" with a brief description of the changes you've made.
 
 That's it! You now have a GitHub repository to document your SQL learning journey, and you can continue to add files and update your repository as you learn more about SQL.
-
+______
 
 [Previous: Introduction](./README.md) | [Next: Topics](./2-Topics.md)

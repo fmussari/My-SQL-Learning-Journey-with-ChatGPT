@@ -5,9 +5,13 @@
 
 ### First attempt
 **Me:**  
+___
 I want to impromve my sql skills, could you act as a teacher and expert in databases and generate a table that lists the topics I should learn, from beginner to expert? 
+___
+<br>
 
 **ChatGPT:**  
+___
 Sure, I'd be happy to help! Here's a list of SQL topics you can learn from beginner to expert:
 
 Beginner:
@@ -50,14 +54,18 @@ Expert:
 10. Implementing high availability and disaster recovery solutions. 
 
 I hope this list helps you improve your SQL skills! Good luck with your studies!
-
+___
+<br>
 ### Another Prompt
 I started a new conversation and used a simpler prompt. For readability I added `<br> -` at the begining of each topic inside the table.
 
 **Me:**  
+___
 Can you help me improve my sql skills, can you list me the subject from beginner to expert in a table?
-
+___
+<br>
 **ChatGPT:**  
+___
 Certainly! Here's a table outlining different topics related to SQL, arranged in order from beginner to expert level:
 
 | Skill Level | SQL Topics |
@@ -67,3 +75,4 @@ Certainly! Here's a table outlining different topics related to SQL, arranged in
 | Advanced | - Working with multiple databases and database systems<br> - Creating and managing indexes to improve query performance<br> - Working with views to simplify queries and improve security<br> - Using window functions to perform advanced analytical operations<br> - Using Common Table Expressions (CTEs) for recursive queries and complex subqueries<br> - Understanding and using advanced optimization techniques such as query hints and indexing strategies. |
 
 Keep in mind that this is just a rough outline, and the actual topics you need to learn will depend on your specific goals and the particular database management system you're working with. However, mastering these skills will provide a strong foundation for working with SQL databases.
+___

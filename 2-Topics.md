@@ -79,3 +79,6 @@ Certainly! Here's a table outlining different topics related to SQL, arranged in
 
 Keep in mind that this is just a rough outline, and the actual topics you need to learn will depend on your specific goals and the particular database management system you're working with. However, mastering these skills will provide a strong foundation for working with SQL databases.
 ___
+<br>
+
+[Previous: Introduction](./README.md) | [Next: 2. Topics](./2-Topics.md)

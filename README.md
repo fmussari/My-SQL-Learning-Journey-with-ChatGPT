@@ -8,4 +8,4 @@ You can use a similar approach to learn whatever you want, or at least any progr
 
 The version used is: [ChatGPT Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes).
 
-[Next: Creating the repository](./1-Creating-the-repository.md)
+[Next: 1. Creating the repository](./1-Creating-the-repository.md)
